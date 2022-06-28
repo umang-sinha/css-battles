@@ -1,4 +1,4 @@
-<center> <h3>CSS Battles Solutions</h3> </center>
+<h3>CSS Battle Solutions</h3>
 
 #### This repository contains solutions to the challenges on [cssbattle.dev](https://cssbattle.dev)
 
